@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.dciartform.brandambassador.soa.dev",
       "sha256_cert_fingerprints": [
-        "17:9F:0A:3F:7B:DC:6D:1F:FE:9E:0F:D1:FD:5A:58:2E:FE:E4:69:14:2A:FC:2D:4C:C8:F4:06:D1:2E:C7:BA:E7"
+        "17:9F:0A:3F:7B:DC:6D:1F:FE:9E:0F:D1:FD:5A:58:2E:FE:E4:69:14:2A:FC:2D:4C:C8:F4:06:D1:2E:C7:BA:E7",
+        "3C:C4:8B:3F:43:70:7A:C8:9D:49:8B:AA:E6:91:7C:4B:1A:23:38:FA:6B:D6:94:34:E4:E8:8C:F3:54:79:5B:90"
       ]
     }
   }
