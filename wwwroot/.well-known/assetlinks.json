@@ -1,0 +1,10 @@
+[
+  {
+    "relation": [ "delegate_permission/common.handle_all_urls" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dciartform.brandambassador.soa.dev",
+      "sha256_cert_fingerprints": [ "3C:C4:8B:3F:43:70:7A:C8:9D:49:8B:AA:E6:91:7C:4B:1A:23:38:FA:6B:D6:94:34:E4:E8:8C:F3:54:79:5B:90" ]
+    }
+  }
+]
