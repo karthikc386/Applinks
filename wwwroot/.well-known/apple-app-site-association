@@ -7,6 +7,12 @@
         "paths": [
           "/Ambassador/TCAnnualRenewal"
         ]
+      },
+      {
+        "appID": "F394VY9AD7.com.dciartform.brandambassador.soa.test",
+        "paths": [
+          "/Ambassador/TCAnnualRenewal"
+        ]
       }
     ]
   }
