@@ -48,6 +48,13 @@ namespace AppLinks
 
             app.UseEndpoints(endpoints =>
             {
+
+                endpoints.MapControllerRoute(
+                    name: "Handoff-iOS9",
+                    pattern: ".well-known/apple-app-site-association",
+                    defaults: new { controller = "Home", action = "WellKnownAppleHandoff" });
+
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
